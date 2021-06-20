@@ -1,16 +1,16 @@
-#h3 Kodluyoruz Ilk Repo 
+# Kodluyoruz Ilk Repo 
 ---
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-#h3 Installation
+# Installation
 ---
 
 Öncelikle projeyi clonelayın.
 
 `https://github.com/yasinTru/kodluyoruzilkrepo.git`
 
-#h3 Usage
+# Usage
 ---
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
